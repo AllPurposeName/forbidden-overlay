@@ -119,7 +119,6 @@ class App extends Component {
       // if (output === 'Al37') { debugger; }
       return output;
 
-
       // we have 21
       // it should be A1
       // then we'll have 22

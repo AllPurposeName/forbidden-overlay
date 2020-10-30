@@ -3,9 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "googleapis": "44.0.0",
+    "googleapis": "^62.0.0",
     "husky": "^3.0.9",
     "lodash": "^4.17.19",
+    "pdfjs-dist": "^2.5.207",
     "prettier": "^1.18.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
